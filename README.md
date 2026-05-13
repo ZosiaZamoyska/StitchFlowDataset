@@ -50,9 +50,9 @@ Each `.txt` file is a time-series of the IMU orientation.
 
 | Code | Meaning        | Notes |
 |------|----------------|-------|
-| `ch` | Chain          |       |
-| `sc` | Single crochet |       |
-| `dc` | Double crochet |       |
+| `ch` | Chain          | 260 entries  |
+| `sc` | Single crochet | 260 entries  |
+| `dc` | Double crochet | 260 entries  |
 
 ---
 
